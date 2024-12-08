@@ -1,14 +1,14 @@
-# VRV Security’s Python Intern Assignment Submission
+# Log Analysis Script
 
 ## Overview
-This repository contains my submission for the **Internship Opportunity Assignment**. The assignment focuses on assessing our ability to write a Python script that processes log files to extract and analyze key information. This assignment evaluates proficiency in file handling, string manipulation, and data analysis, which are essential skills for cybersecurity-related programming tasks.
+The project focuses on assessing our ability to write a Python script that processes log files to extract and analyze key information. This assignment evaluates proficiency in file handling, string manipulation, and data analysis, which are essential skills for cybersecurity-related programming tasks.
 
 
 ## Setup and Usage
 Instructions to run the repository locally.
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aranya-jana/VRV-Security-s-Python-Intern-Assignment
+   git clone https://github.com/aranya-jana/Log-Analysis-Script.git
    ```
 1. Install dependencies:
    No Extra Dependencies are required. You just need to create or store a `sample.log` file and store your logs in it.
