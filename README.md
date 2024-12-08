@@ -8,7 +8,7 @@ The project focuses on assessing our ability to write a Python script that proce
 Instructions to run the repository locally.
 1. Clone the repository:
    ```bash
-   
+   https://github.com/aranya-jana/VRV-Security-s-Python-Intern-Assignment
    ```
 1. Install dependencies:
    No Extra Dependencies are required. You just need to create or store a `sample.log` file and store your logs in it.
